@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|c:\\users\\korisnik\\desktop\\projekat\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|c:\\users\\korisnik\\desktop\\projekat\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|c:\\users\\korisnik\\desktop\\projekat\\todoapi\\todoapi\\models\\todoitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6A9462-A368-4D69-8043-BDCEF63EEFD2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Models\\TodoItemsDTO.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItemsDTO.cs",
+              "ToolTip": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Models\\TodoItemsDTO.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItemsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:16:06.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:09:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\KorisniK\\Desktop\\projekat\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:25:02.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
