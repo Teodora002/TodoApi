@@ -1,9 +1,5 @@
 @TodoApi_HostAddress = https://localhost:7246
 
-//GET {{TodoApi_HostAddress}}/weatherforecast/
-//Accept: application/json
-
-###
 
 POST {{TodoApi_HostAddress}}/api/todoitems
 Content-Type: application/json
