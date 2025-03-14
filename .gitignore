@@ -1,0 +1,33 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (backup)
+Thumbs.db
+
+# ASP.NET Core config files that may contain sensitive data
+appsettings.json
+appsettings.Development.json
+
+# Log files
+logs/
+*.log
+
+# Visual Studio specific directories and files
+.vs/
+
+# ASP.NET Core runtime files
+.publish/
+
